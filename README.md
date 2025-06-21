@@ -9,3 +9,5 @@
 ### TOOLS USED
 - MICROSOFT EXCEL [Download here](https:microsoft.com)
 1. MICROSOFT EXCEL FOR DATA COLLECTION
+
+   ```sql
